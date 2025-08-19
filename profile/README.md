@@ -51,4 +51,4 @@ The Onboard Project is modularly organized into several repositories, each servi
 
 
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU GPL v3.0 License.
